@@ -9,3 +9,19 @@
 - Models: Pure Python (no external valuation libraries)
 - Document: docx-js
 
+# Snippets
+
+## Executive Summary
+![Executive Summary]()
+
+## Error Analysis
+![Error Analysis]()
+
+## Monte Carlo
+![Monte Carlo]()
+
+## Ticker Deep Dive
+[Ticker Deep Dive]()
+
+## Sensitivity Surface
+![Sentivity Surface]()
